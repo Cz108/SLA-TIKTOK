@@ -1,0 +1,60 @@
+{
+    "extra": {
+        "fatal_item_ids": [],
+        "logid": "20230804200718E9790B4298D654352CFD",
+        "now": 1691179638000
+    },
+    "log_pb": {
+        "impr_id": "20230804200718E9790B4298D654352CFD"
+    },
+    "message": "",
+    "shareMeta": {
+        "desc": "@lilyachty 8.0m Followers, 84 Following, 187.0m Likes - Watch awesome short videos created by lilyachty",
+        "title": "lilyachty on TikTok"
+    },
+    "status": "success",
+    "statusCode": 0,
+    "status_code": 0,
+    "userInfo": {
+        "stats": {
+            "diggCount": 0,
+            "followerCount": 8200000,
+            "followingCount": 84,
+            "heart": 187900000,
+            "heartCount": 187900000,
+            "videoCount": 209
+        },
+        "user": {
+            "avatarLarger": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1658838867803142~c5_1080x1080.jpeg?x-expires=1691352000&x-signature=IiCDf%2BodlDwLlkPkiBeEGDcBMdk%3D",
+            "avatarMedium": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1658838867803142~c5_720x720.jpeg?x-expires=1691352000&x-signature=%2BCjmb7fIL3kSN4v2COKmZvEG%2ByY%3D",
+            "avatarThumb": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1658838867803142~c5_100x100.jpeg?x-expires=1691352000&x-signature=0GdEIA0qzuWj4eMu5ZI07fMBYOQ%3D",
+            "canExpPlaylist": true,
+            "commentSetting": 0,
+            "commerceUserInfo": {
+                "commerceUser": false
+            },
+            "duetSetting": 0,
+            "followingVisibility": 1,
+            "ftc": false,
+            "id": "6569595380449902597",
+            "isADVirtual": false,
+            "isEmbedBanned": false,
+            "nickname": "lilyachty",
+            "openFavorite": false,
+            "privateAccount": false,
+            "profileEmbedPermission": 1,
+            "profileTab": {
+                "showMusicTab": true,
+                "showPlayListTab": false
+            },
+            "relation": 0,
+            "secUid": "MS4wLjABAAAAsHntXC3s0AvxcecggxsoVa4eAiT8OVafVZ4OQXxy-9htpnUi0sOYSr0kGGD1Loud",
+            "secret": false,
+            "signature": "I love girls with freckled faces",
+            "stitchSetting": 0,
+            "ttSeller": false,
+            "uniqueId": "lilyachty",
+            "verified": true
+        }
+    }
+}

@@ -1,0 +1,4 @@
+requests
+playwright==1.30.0
+selenium_stealth
+selenium

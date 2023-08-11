@@ -1,0 +1,59 @@
+{
+    "extra": {
+        "fatal_item_ids": [],
+        "logid": "202308042008015784D95A6B3B6C3535C2",
+        "now": 1691179681000
+    },
+    "log_pb": {
+        "impr_id": "202308042008015784D95A6B3B6C3535C2"
+    },
+    "message": "",
+    "shareMeta": {
+        "desc": "@spencerx 55.0m Followers, 9776 Following, 1284.0m Likes - Watch awesome short videos created by Spencer X",
+        "title": "Spencer X on TikTok"
+    },
+    "status": "success",
+    "statusCode": 0,
+    "status_code": 0,
+    "userInfo": {
+        "stats": {
+            "diggCount": 0,
+            "followerCount": 55100000,
+            "followingCount": 9776,
+            "heart": 1300000000,
+            "heartCount": 1300000000,
+            "videoCount": 1254
+        },
+        "user": {
+            "avatarLarger": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9f4345da62445bf0f45b3e3e8dd43639~c5_1080x1080.jpeg?x-expires=1691352000&x-signature=BPzkqmFCEg0EdCfyASA%2FFXnZzy4%3D",
+            "avatarMedium": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9f4345da62445bf0f45b3e3e8dd43639~c5_720x720.jpeg?x-expires=1691352000&x-signature=ESeft5N7dBWvLqBRGwA3VdsGlSQ%3D",
+            "avatarThumb": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/9f4345da62445bf0f45b3e3e8dd43639~c5_100x100.jpeg?x-expires=1691352000&x-signature=qGhnS6g%2B1B%2BXPHJZh0dGde%2F0P%2Bg%3D",
+            "canExpPlaylist": true,
+            "commentSetting": 0,
+            "commerceUserInfo": {
+                "commerceUser": false
+            },
+            "duetSetting": 0,
+            "followingVisibility": 2,
+            "ftc": false,
+            "id": "6524904798586672143",
+            "isADVirtual": false,
+            "isEmbedBanned": false,
+            "nickname": "Spencer X",
+            "openFavorite": false,
+            "privateAccount": false,
+            "profileEmbedPermission": 1,
+            "profileTab": {
+                "showPlayListTab": false
+            },
+            "relation": 0,
+            "secUid": "MS4wLjABAAAABKI9wkOM_rWwOAzNYfT4aCNzOdjVvtYaLA8mkcwQLW_axHvgmwUcpQA63lek4aGB",
+            "secret": false,
+            "signature": "Mouth Music Man \ud83d\udde3\ud83c\udfb6\nBusiness: spencerbeatbox@gmail.com",
+            "stitchSetting": 0,
+            "ttSeller": false,
+            "uniqueId": "spencerx",
+            "verified": true
+        }
+    }
+}
